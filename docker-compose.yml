@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   coze-discord-proxy:
-    image: zorro1133/coze-discord-proxy:latest
+    image: deanxv/coze-discord-proxy:latest
     container_name: coze-discord-proxy
     restart: always
     ports:
